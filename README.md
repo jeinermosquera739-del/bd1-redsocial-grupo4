@@ -32,9 +32,4 @@ Este repositorio contiene la implementación del modelo físico de base de datos
 
 ---
 
-## Instrucciones de Ejecución (PostgreSQL)
-1. Abrir **pgAdmin 4** y conectarse al servidor de PostgreSQL.
-2. Crear una base de datos nombrada `red_social_pascualina`.
-3. Abrir la herramienta **Query Tool** sobre la base de datos creada.
-4. Cargar y ejecutar el archivo `script_schema_pascualina.sql`.
-5. Verificar la creación exitosa de las 18 tablas en el esquema `public`.
+
