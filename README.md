@@ -28,7 +28,7 @@ Este repositorio contiene la implementación del modelo físico de base de datos
 ---
 
 ## Enlace al Video de Sustentación
-> **Video de la entrega:** [Ingresa aquí el enlace de YouTube o Google Drive]
+> **Video de la entrega:** [https://youtu.be/6tkFn0CZCN4]
 
 ---
 
