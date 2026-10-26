@@ -21,3 +21,26 @@ Para responder a los retos del entorno académico y los criterios de la tarea, l
 
 ---
 
+## Estructura de Carpetas del Repositorio (`Tarea4`)
+
+La arquitectura de carpetas cumple estrictamente con las especificaciones de entrega de la guía:
+
+```text
+Tarea4/
+├── Diccionarios/
+│   ├── Diccionario_Datos_Generico.pdf
+│   ├── Diccionario_Datos_Fisico_PostgreSQL.pdf
+│   ├── Diccionario_Datos_Fisico_MySQL.pdf
+│   └── Diccionario_Datos_Fisico_SQLServer.pdf
+│
+├── DDL/
+│   ├── script_postgresql.sql
+│   ├── script_mysql.sql
+│   └── script_sqlserver.sql
+│
+├── Informe/
+│   └── Informe_Tecnico_Justificacion_RedSocial.pdf
+│
+│
+│
+└── README.md
