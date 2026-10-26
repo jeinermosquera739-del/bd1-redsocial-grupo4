@@ -33,13 +33,19 @@ Tarea4/
 │   ├── Diccionario_Datos_Fisico_MySQL.pdf
 │   └── Diccionario_Datos_Fisico_SQLServer.pdf
 │
+│
+│
+├── Informe/
+│   └── Informe_Tecnico_Justificacion_RedSocial.pdf
+│
+│
+│
 ├── DDL/
 │   ├── script_postgresql.sql
 │   ├── script_mysql.sql
 │   └── script_sqlserver.sql
 │
-├── Informe/
-│   └── Informe_Tecnico_Justificacion_RedSocial.pdf
+│
 │
 │
 │
