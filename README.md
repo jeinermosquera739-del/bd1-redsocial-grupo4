@@ -31,9 +31,11 @@ TAREA 5/
 │   
 │
 ├── DML_Vistas/
-│   └── script_final_dml_vistas.sql
+│   
 │
 ├── Justificacion/
-│   └── Justificacion_Consultas_Vistas.pdf
+│   
 │
+├── Diccionarios/
+│   
 └── README.md
