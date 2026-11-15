@@ -26,7 +26,7 @@ Para responder a los retos de la tercera unidad y a los criterios de la activida
 La arquitectura de carpetas organiza los entregables de acuerdo con las especificaciones de la guía:
 
 ```text
-bd1-redsocial-grupo4/
+TAREA 5/
 ├── Borradores/
 │   ├── borrador_luis_rojas.sql
 │   ├── borrador_emily_quintero.sql
