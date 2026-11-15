@@ -28,10 +28,7 @@ La arquitectura de carpetas organiza los entregables de acuerdo con las especifi
 ```text
 TAREA 5/
 ├── Borradores/
-│   ├── borrador_luis_rojas.sql
-│   ├── borrador_emily_quintero.sql
-│   ├── borrador_sofia_hidalgo.sql
-│   └── borrador_jeiner_mosquera.sql
+│   
 │
 ├── DML_Vistas/
 │   └── script_final_dml_vistas.sql
